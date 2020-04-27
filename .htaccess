@@ -76,7 +76,7 @@ Options -MultiViews
 
 ErrorDocument 404 /404.html
 
-
+Redirect /onlineorder.html https://don-luchos-online.square.site/
 # ##############################################################################
 # # INTERNET EXPLORER                                                          #
 # ##############################################################################
